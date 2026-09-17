@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.vite/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+*.sqlite
+*.sqlite-journal
+cyberwar_db.sqlite
